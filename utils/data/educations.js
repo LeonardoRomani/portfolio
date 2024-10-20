@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "DAM Higher Degree Vocational Training",
+    duration: "2022 - Present",
+    institution: "IOC",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Bachelor's Degree",
+    duration: "2010 - 2012",
+    institution: "IES Les Marines, Bruguers, IOC",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
-]
+    title: "ESO Certificate",
+    duration: "1999 - 2003",
+    institution: "IES Les Marines",
+  },
+];

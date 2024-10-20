@@ -1,17 +1,20 @@
 export const personalData = {
-  name: "ABU SAID",
-  profile: '/profile.png',
-  designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
-}
+  name: "Emiliano González",
+  profile: "/profile.png",
+  cv: "/TRS_FSLOE_EAF1_CVEuropass_Gonzalez_S.pdf",
+  designation: "Full Stack Developer",
+  description:
+    "My name is Emiliano González, and I am a passionate and professional developer. I thrive on learning and have a strong self-driven attitude toward mastering new technologies. I am always eager to explore new challenges, especially those that involve problem-solving.I enjoy working across various tech stacks in web application development and am committed to making the web more accessible to everyone. While my primary expertise lies in JavaScript, I have solid knowledge of Python, SQL, and Java, gained through my studies in the Advanced Degree in Multiplatform Application Development (DAM) at IOC. I am open to job opportunities that align with my skills and passions.",
+  email: "emiliano_gonzalez_sevillano@hotmail.com",
+  phone: "+34 616740733",
+  address:
+    "Carrer Montseny nº 11/13 baix 6ª La Palma de Cervelló 08756 Barcelona",
+  github: "https://github.com/emilianoGonzalez",
+  facebook: "https://www.facebook.com/EmilianoGonzalez/",
+  linkedIn: "https://www.linkedin.com/Emiliano_Gonzalez/",
+
+  stackOverflow: "https://stackoverflow.com/users/emiliano_gonzalez",
+  leetcode: "https://leetcode.com/emilianoGonzalez/",
+  devUsername: "emilianoGonzalez",
+  resume: "TRS_FSLOE_EAF1_CVEuropass_Gonzalez_S.pdf",
+};
